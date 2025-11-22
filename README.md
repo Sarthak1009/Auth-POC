@@ -46,7 +46,8 @@ Auth-POC/
 ### 1. Clone the Repository
 
 ```bash
-cd c:\Users\sarth\OneDrive\Desktop\Auth-POC
+git clone https://github.com/Sarthak1009/Auth-POC.git
+cd Auth-POC
 ```
 
 ### 2. Setup Backend Server
